@@ -12,6 +12,9 @@ Welcome to my GitHub profile. Here's a little about me:
 
 
 # 📫 Connect with Me:
+
 Mail:      techwinson2025@gmail.com
+
 Instagram: @winsonaravinthraj
+
 ⚡ Fun Fact: I'm an anime enthusiast!
