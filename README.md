@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @techwinson
-- 👀 I’m interested in new things!!!
-- 🌱 I’m currently learning coding
-- 👨🏻‍💻 Skilled & certified FullStack Developer
-- 💞️ I’m looking to collaborate on projects
-- 📫 instagram: @winsonaravinthraj
-- ⚡ buck buck buck! Love Anime
+# 👋 Hello, I'm @techwinson!
 
-<!---
-techwinson/techwinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Welcome to my GitHub profile. Here's a little about me:
 
-OKAY!!!
---->
+👨🏻‍💻 Full-Stack Developer: Skilled and certified, with a passion for building innovative applications.
+
+🌱 Lifelong Learner: Currently expanding my expertise in coding and exploring new technologies.
+
+👀 Interests: Always curious about learning new things and diving into exciting projects.
+
+💞️ Collaboration: Open to collaborating on impactful projects and contributing to meaningful ideas.
+
+
+# 📫 Connect with Me:
+Mail:      techwinson2025@gmail.com
+Instagram: @winsonaravinthraj
+⚡ Fun Fact: I'm an anime enthusiast!
