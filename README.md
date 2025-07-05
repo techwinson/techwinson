@@ -75,7 +75,7 @@
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
-[![Snowflake](https://skillicons.dev/icons?i=snowflake)](https://skillicons.dev)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ---
 
@@ -89,28 +89,28 @@
 ---
 
 ### 🤖 AI/ML:
+### 🤖 AI/ML:
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
-[![Numpy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
-[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
 [![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://skillicons.dev)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
 ### 🎨 Design & Tools:
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-[![Canva](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)
-[![Framer](https://skillicons.dev/icons?i=framer)](https://skillicons.dev)
 [![AE](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
 [![Unreal](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
 ### 🧪 Testing:
 [![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
-[![Jasmine](https://skillicons.dev/icons?i=jasmine)](https://skillicons.dev)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 
 ---
 
