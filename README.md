@@ -9,9 +9,9 @@
 🔹 Open-Source Projects
 
 🤝 I’m looking for help with:  
-🔸 Integrating **AI Models** and **API Keys**
-🔸 Real-time Mobile API Improvements
-🔸 Web designing and developments
+🔸 Integrating **AI Models** and **API Keys** <br>
+🔸 Real-time Mobile API Improvements <br>
+🔸 Web designing and developments <br>
 
 🌱 Currently Learning:  
 📲 Advanced **Flutter** Concepts  
@@ -29,9 +29,17 @@
 ---
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/winsonaravinthraj)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/winsonaravinthraj)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:techwinson2025@gmail.com)
+<a href="https://instagram.com/winsonaravinthraj" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="47" height="47" alt="Instagram" />
+</a>
+<a href="https://linkedin.com/in/winsonaravinthraj" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" width="47" height="47" alt="LinkedIn" />
+</a>
+<a href="mailto:techwinson2025@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="47" height="47" alt="Gmail" />
+</a>
+
+
 
 ---
 
@@ -72,11 +80,8 @@
 ---
 
 ### 🛢️ Databases:
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB"/>  <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/>  <img src="https://skillicons.dev/icons?i=sqlite" width="40" height="40" alt="SQLite"/>  <img src="https://img.icons8.com/?size=100&id=N52twNW3yvpU&format=png&color=29B5E8" width="40" height="40" alt="Snowflake" style="background-color: #fff; border-radius: 12px; padding: 6px;" />
+    
 ---
 
 ### ☁️ Cloud & DevOps:
@@ -89,12 +94,10 @@
 ---
 
 ### 🤖 AI/ML:
-### 🤖 AI/ML:
 [![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
 [![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
 [![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://skillicons.dev)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 ---
 
@@ -102,15 +105,13 @@
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 [![AE](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
 [![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
-[![Unreal](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+[![Unreal](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)<img src="https://img.icons8.com/?size=100&id=iWw83PVcBpLw&format=png&color=000000" width="47" height="47" alt="Icon" />
 
 ---
 
 ### 🧪 Testing:
 [![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
 [![Selenium](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
 
 ---
 
