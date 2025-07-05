@@ -35,62 +35,89 @@
 
 ---
 
-## 💻 Tech Stack:
-> Languages • Frameworks • Tools • DevOps • Cloud • AI/ML
+## 💻 Tech Stack (Icon View)
 
-**Languages:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+### 🧠 Languages & Scripting:
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![JS](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TS](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![PHP](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
+[![Powershell](https://skillicons.dev/icons?i=powershell)](https://skillicons.dev)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+---
 
-**Backend & APIs:**  
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+### 🌐 Frontend:
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+[![Angular](https://skillicons.dev/icons?i=angular)](https://skillicons.dev)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://skillicons.dev)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://skillicons.dev)
+[![MUI](https://skillicons.dev/icons?i=materialui)](https://skillicons.dev)
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+---
 
-**DevOps & Cloud:**  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🧩 Backend & APIs:
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
+[![Express](https://skillicons.dev/icons?i=express)](https://skillicons.dev)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
+[![Swagger](https://skillicons.dev/icons?i=swagger)](https://skillicons.dev)
 
-**AI/ML & Data:**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+---
 
-**Tools & Design:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+### 🛢️ Databases:
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![Snowflake](https://skillicons.dev/icons?i=snowflake)](https://skillicons.dev)
+
+---
+
+### ☁️ Cloud & DevOps:
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![Azure](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://skillicons.dev)
+
+---
+
+### 🤖 AI/ML:
+[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://skillicons.dev)
+[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://skillicons.dev)
+[![Numpy](https://skillicons.dev/icons?i=numpy)](https://skillicons.dev)
+[![Pandas](https://skillicons.dev/icons?i=pandas)](https://skillicons.dev)
+[![Scikit-learn](https://skillicons.dev/icons?i=scikitlearn)](https://skillicons.dev)
+
+---
+
+### 🎨 Design & Tools:
+[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![Canva](https://skillicons.dev/icons?i=canva)](https://skillicons.dev)
+[![Framer](https://skillicons.dev/icons?i=framer)](https://skillicons.dev)
+[![AE](https://skillicons.dev/icons?i=ae)](https://skillicons.dev)
+[![Blender](https://skillicons.dev/icons?i=blender)](https://skillicons.dev)
+[![Unreal](https://skillicons.dev/icons?i=unreal)](https://skillicons.dev)
+
+---
+
+### 🧪 Testing:
+[![Jest](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)
+[![Jasmine](https://skillicons.dev/icons?i=jasmine)](https://skillicons.dev)
+[![Selenium](https://skillicons.dev/icons?i=selenium)](https://skillicons.dev)
+
+---
+
+### 🧰 Other Tools:
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
 
 ---
 
